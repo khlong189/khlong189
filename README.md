@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @khlong189
+- 👋 Hi, I’m Long and I am originally from Vietnam
 - 👀 I’m interested in Data Analytics and Data Science
 - 🌱 I’m currently enrolling in Data Science M.S program at University of Rochester
 - 💞️ I’m looking to internship opportunities after gradute school/summer of 2023 
