@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @khlong189
 - 👀 I’m interested in Data Analytics and Data Science
-- 🌱 I’m currently learning Data Science and Applied Math
-- 💞️ I’m looking to job opportunities after college
+- 🌱 I’m currently enrolling in Data Science M.S program at University of Rochester
+- 💞️ I’m looking to internship opportunities after gradute school/summer of 2023 
 - 📫 How to reach me: ngkhlong189@gmail.com
 
 <!---
